@@ -33,7 +33,7 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #EC1461ff;
+    background-color: #F3668Aff;
     color: black;
 }
 
@@ -55,7 +55,7 @@ body {
 }
 
 .dropdown .dropbtn:hover {
-    background-color: #EC1461ff;
+    background-color: #F3668Aff;
     color: black;
 }
 
