@@ -5,6 +5,18 @@
 --little-boy-blue: #7FA7D8ff;
 --black: #000000ff; */
 
+body {
+    background-color: #414E85ff;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
 .topnav {
     background-color: #EC1461ff;
     overflow: hidden;
