@@ -19,7 +19,7 @@ body {
 }
 
 .topnav {
-    background-color: #EC1461ff;
+    background-color: #F3668Aff;
     overflow: hidden;
 }
 
@@ -33,14 +33,14 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #F3668Aff;
+    background-color: #EC1461ff;
     color: black;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #EC1461ff;
+  background-color: #F3668Aff;
   min-width: 160px;
   z-index: 1;
 }
@@ -55,7 +55,7 @@ body {
 }
 
 .dropdown .dropbtn:hover {
-    background-color: #F3668Aff;
+    background-color: #EC1461ff;
     color: black;
 }
 
