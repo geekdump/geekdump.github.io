@@ -19,7 +19,7 @@ body {
 }
 
 .topnav {
-    background-color: #F3668Aff;
+    background-color: #7FA7D8ff;
     overflow: hidden;
 }
 
@@ -40,7 +40,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #F3668Aff;
+  background-color: #7FA7D8ff;
   min-width: 160px;
   z-index: 1;
 }
